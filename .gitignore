@@ -1,0 +1,10 @@
+/extras
+/flask
+/js
+/server/node_modules
+/server/yarn.lock
+/website/node_modules
+/website/.parcel-cache
+/website/yarn.lock
+/website/dist
+/.gitignore~
